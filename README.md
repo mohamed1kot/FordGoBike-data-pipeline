@@ -1,4 +1,4 @@
-# Ford GoBike Data Pipeline
+# Ford GoBike Data Pipeline 
 
 A robust, modular data pipeline for ingesting, processing, and analyzing Ford GoBike trip data using Apache Airflow, PostgreSQL, and Docker. The pipeline supports multi-layer ETL (Bronze, Silver, Gold), automated email notifications, and is designed for extensibility and reproducibility.
 
